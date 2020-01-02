@@ -6,5 +6,5 @@ def directors_database
 end
 
 def pretty_print_nds
-  pp directors_db()
+  pp directors_db
 end
